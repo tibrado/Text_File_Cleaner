@@ -1,4 +1,7 @@
 # Text_File_Cleaner
+* Written in Python.                                                *
+* Please comment if you find errors or would like functions added.  *
+
 class FileCleaner('myfile')		: requires a string input on creation.
 
 errors()				              : returns error messages 
